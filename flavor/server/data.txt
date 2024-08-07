@@ -1,0 +1,42 @@
+{"id":1,"title":"계경","latitude":"36.775725","longitude":"126.933723","type":"한식","phone_number":"041-541-1444","menu":"부대찌개, 콩불"}
+{"id":2,"title":"곱데기곱창","latitude":"36.773781","longitude":"126.933105","type":"한식","phone_number":"123-456-7890","menu":"곱창, 막창"}
+{"id":3,"title":"꼴두바우","latitude":"36.773781","longitude":"126.933105","type":"한식","phone_number":"041-546-5557","menu":"고기"}
+{"id":5,"title":"국제밀면","latitude":"36.771433","longitude":"126.929139","type":"한식","phone_number":"041-544-3334","menu":"냉밀면, 동치미밀면"}
+{"id":4,"title":"궁중화로","latitude":"36.775218","longitude":"126.933793","type":"한식","phone_number":"123-456-7890","menu":"육회비빔밥, 갈비탕"}
+{"id":6,"title":"노랑통닭","latitude":"36.775939","longitude":"126.933801","type":"패스트푸드, 양식","phone_number":"041-543-4330","menu":"후라이드치킨, 양념치킨"}
+{"id":7,"title":"떡볶이슈퍼","latitude":"36.774342","longitude":"126.933825","type":"분식","phone_number":"041-542-9261","menu":"떡볶이, 순대, 튀김"}
+{"id":9,"title":"돌삐설렁탕","latitude":"36.774979","longitude":"126.933003","type":"한식","phone_number":"0507-1398-3654","menu":"설렁탕"}
+{"id":8,"title":"도스마스","latitude":"36.773815","longitude":"126.933069","type":"패스트푸드, 양식","phone_number":"123-456-7890","menu":""}
+{"id":12,"title":"만득이네","latitude":"36.774770","longitude":"126.932866","type":"분식","phone_number":"041-547-5440","menu":"떡볶이, 순대, 튀김"}
+{"id":10,"title":"돼지고기김치찌개","latitude":"36.772061","longitude":"126.935266","type":"한식","phone_number":"041-533-3292","menu":"김치찌개, 된장찌개, 제육"}
+{"id":14,"title":"밀플랜비","latitude":"36.773650","longitude":"126.932302","type":"패스트푸드, 양식","phone_number":"0507-1434-7556","menu":"부리또"}
+{"id":11,"title":"롯데리아","latitude":"36.774299","longitude":"126.932735","type":"패스트푸드, 양식","phone_number":"0507-1379-2700","menu":"햄버거"}
+{"id":15,"title":"밀터칼국수","latitude":"36.771811","longitude":"126.935406","type":"한식","phone_number":"041-532-1897","menu":"칼국수"}
+{"id":13,"title":"맘스터치","latitude":"36.773587","longitude":"126.933265","type":"패스트푸드, 양식","phone_number":"041-542-4626","menu":"햄버거"}
+{"id":18,"title":"배부장찌개","latitude":"36.774132","longitude":"126.933528","type":"한식","phone_number":"041-532-9796","menu":"김치찌개"}
+{"id":16,"title":"바베이드","latitude":"36.774518","longitude":"126.933155","type":"한식, 패스트푸드","phone_number":"123-456-7890","menu":"닭볶음탕, 치킨"}
+{"id":19,"title":"버거운버거","latitude":"36.773434","longitude":"126.933083","type":"패스트푸드, 양식","phone_number":"0507-1470-9286","menu":"햄버거"}
+{"id":20,"title":"썬오브비앤피","latitude":"36.774146","longitude":"126.932775","type":"패스트푸드, 양식","phone_number":"041-533-4666","menu":"치킨, 피자"}
+{"id":22,"title":"순천향대학교국밥","latitude":"36.774669","longitude":"126.933933","type":"한식","phone_number":"041-543-1988","menu":"순대국밥"}
+{"id":17,"title":"박미리부대찌개","latitude":"36.774121","longitude":"126.932808","type":"한식","phone_number":"041-542-5873","menu":"부대찌개"}
+{"id":24,"title":"신전떡볶이","latitude":"36.773259","longitude":"126.934055","type":"분식","phone_number":"041-547-0053","menu":"떡볶이, 순대, 튀김"}
+{"id":23,"title":"식껍숯불화로구이","latitude":"36.775708","longitude":"126.934117","type":"한식","phone_number":"0507-1367-7798","menu":"고기"}
+{"id":26,"title":"얌샘김밥","latitude":"36.773533","longitude":"126.932764","type":"분식","phone_number":"041-544-3399","menu":"김밥"}
+{"id":21,"title":"순천지","latitude":"36.775020","longitude":"126.933040","type":"한식","phone_number":"041-541-1390","menu":"닭볶음탕"}
+{"id":25,"title":"신창족발","latitude":"36.774227","longitude":"126.933573","type":"한식","phone_number":"0507-1318-1779","menu":"족발, 보쌈"}
+{"id":28,"title":"은화수식당","latitude":"36.774056","longitude":"126.932856","type":"일식, 양식","phone_number":"041-531-5211","menu":"돈가스"}
+{"id":27,"title":"열두시식당","latitude":"36.775318","longitude":"126.934014","type":"일식, 양식","phone_number":"010-3683-7555","menu":"카레, 연어덮밥"}
+{"id":31,"title":"짱닭치킨","latitude":"36.774779","longitude":"126.932866","type":"패스트푸드, 양식","phone_number":"041-531-5558","menu":"후라이드치킨, 양념치킨"}
+{"id":29,"title":"이삭토스트","latitude":"36.773157","longitude":"126.934150","type":"분식","phone_number":"041-910-0607","menu":"토스트"}
+{"id":30,"title":"자유식당","latitude":"36.772032","longitude":"126.935176","type":"한식","phone_number":"0507-1338-3755","menu":"제육, 갈비탕"}
+{"id":34,"title":"천원국수","latitude":"36.773373","longitude":"126.933302","type":"분식","phone_number":"041-532-0969","menu":"떡볶이, 순대, 튀김, 국수"}
+{"id":33,"title":"진시왕","latitude":"36.773642","longitude":"126.933909","type":"중식","phone_number":"041-534-5135","menu":"자장면"}
+{"id":32,"title":"중국집","latitude":"36.774200","longitude":"126.933528","type":"중식","phone_number":"0507-1342-2237","menu":"자장면"}
+{"id":36,"title":"춘천명동닭갈비","latitude":"36.773981","longitude":"126.932904","type":"한식","phone_number":"041-541-4883","menu":"닭갈비"}
+{"id":37,"title":"콩불파삼","latitude":"36.773641","longitude":"126.932741","type":"한식","phone_number":"123-456-7890","menu":"콩나물불고기, 파절이삼겹살"}
+{"id":38,"title":"토마토도시락","latitude":"36.772797","longitude":"126.934548","type":"기타","phone_number":"041-545-1235","menu":"도시락"}
+{"id":39,"title":"푸짐한밥상","latitude":"36.775991","longitude":"126.933851","type":"한식","phone_number":"041-543-7754","menu":"묵은지김치찜"}
+{"id":40,"title":"피자나라치킨공주","latitude":"36.773610","longitude":"126.934293","type":"양식, 패스트푸드","phone_number":"041-549-9227","menu":""}
+{"id":42,"title":"59쌀피자","latitude":"36.772660","longitude":"126.934644","type":"양식, 패스트푸드","phone_number":"041-549-5969","menu":"피자"}
+{"id":35,"title":"최고당돈가스","latitude":"36.775185","longitude":"126.934079","type":"양식","phone_number":"041-532-1550","menu":"돈가스, 냉모밀"}
+{"id":41,"title":"한솥도시락","latitude":"36.774308","longitude":"126.933816","type":"기타","phone_number":"041-542-2085","menu":"도시락"}
